@@ -29,3 +29,17 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+# AWS links
+
+Manual deployment(no access via S3):
+http://shop-aws-app-manual.s3-website-eu-west-1.amazonaws.com
+
+Manual deployment(access via Cloudfront):
+https://db6lfegx40aem.cloudfront.net
+
+Auto deployment(no access via S3):
+http://shop-aws-app-auto.s3-website-eu-west-1.amazonaws.com
+
+Auto deployment(access via Cloudfront):
+https://d2dtzh6xebr0ey.cloudfront.net
